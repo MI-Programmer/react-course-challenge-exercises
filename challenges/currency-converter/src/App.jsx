@@ -49,13 +49,8 @@ function App() {
       setIsDisabled(false);
     };
 
-    if (!Number(amount)) {
-      setResult(0);
-      return;
-    } else if (from === to) {
-      setResult(amount);
-      return;
-    }
+    if (!Number(amount)) return setResult(0);
+    if (from === to) return setResult(amount);
     fetchConvertCurrency();
   }, [currency]);
 
