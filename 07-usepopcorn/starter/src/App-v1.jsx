@@ -11,7 +11,7 @@ import Loader from "./components/Loader";
 import ErrorMessage from "./components/ErrorMessage";
 import MovieDetails from "./components/Main/MovieDetails";
 
-const KEY = "5cac9c17";
+const KEY = "";
 
 export default function App() {
   const [query, setQuery] = useState("spider");

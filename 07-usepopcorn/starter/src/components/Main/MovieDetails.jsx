@@ -3,7 +3,7 @@ import Loader from "../Loader";
 import StarRating from "../StarRating";
 import { useKey } from "../../useKey";
 
-const KEY = "5cac9c17";
+const KEY = "";
 
 const MovieDetails = ({ selectedId, onCloseMovie, onAddWatched, watched }) => {
   const [movie, setMovie] = useState({});

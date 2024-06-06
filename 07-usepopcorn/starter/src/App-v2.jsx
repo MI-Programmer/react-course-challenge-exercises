@@ -13,7 +13,7 @@ import MovieDetails from "./components/Main/MovieDetails";
 import { useMovies } from "./useMovies";
 import { useLocalStorageState } from "./useLocalStorageState";
 
-// const KEY = "5cac9c17";
+// const KEY = "";
 
 export default function App() {
   const [query, setQuery] = useState("shutter");
