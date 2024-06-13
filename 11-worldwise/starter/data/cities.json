@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,55 +22,67 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930382
-    },
-    {
-      "cityName": "Madrid",
+      "id": "0b0e",
+      "cityName": "Vila-real",
       "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "date": "2024-06-12T04:54:22.745Z",
       "notes": "",
+      "emoji": "🇪🇸",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806752
+        "lat": "39.93159534001413",
+        "lng": "-0.09479331712261008"
+      }
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "id": "0d31",
+      "cityName": "Lorenskog",
+      "country": "Norway",
+      "date": "2024-06-12T05:00:05.890Z",
+      "notes": "",
+      "emoji": "🇳🇴",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443192
+        "lat": "59.90495102479334",
+        "lng": "10.981639013155748"
+      }
+    },
+    {
+      "id": "b292",
+      "cityName": "Hallefors",
+      "country": "Sweden",
+      "date": "2024-06-12T05:04:07.675Z",
+      "notes": "",
+      "emoji": "🇸🇪",
+      "position": {
+        "lat": "59.60750840812285",
+        "lng": "14.489126188710122"
+      }
+    },
+    {
+      "id": "c03f",
+      "cityName": "Raelingen",
+      "country": "Norway",
+      "date": "2024-06-12T05:19:11.818Z",
+      "notes": "",
+      "emoji": "🇳🇴",
+      "position": {
+        "lat": "59.941084690951456",
+        "lng": "11.029535411501646"
+      }
+    },
+    {
+      "id": "d694",
+      "cityName": "Nenagh",
+      "country": "Ireland",
+      "date": "2024-06-12T14:55:00.930Z",
+      "notes": "This is a good place",
+      "emoji": "🇮🇪",
+      "position": {
+        "lat": "52.76006598577878",
+        "lng": "-8.189150745686446"
+      }
     }
   ]
 }
