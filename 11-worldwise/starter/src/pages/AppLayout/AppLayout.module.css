@@ -3,5 +3,7 @@
   padding: 2.4rem;
   overscroll-behavior-y: none;
   display: flex;
+/* I use for my acode in phone  */
+  flex-direction: column;
   position: relative;
 }
